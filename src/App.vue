@@ -58,7 +58,8 @@
                             </template>
                             <MenuItem name="1-1"><router-link to="/">首页</router-link></MenuItem>
                             <MenuItem name="1-2"><router-link to="/users">用户管理</router-link></MenuItem>
-                            <MenuItem name="1-3"><router-link to="/about">关于我们</router-link></MenuItem>
+                            <MenuItem name="1-3"><router-link to="/news">新闻模块</router-link></MenuItem>
+                            <MenuItem name="1-4"><router-link to="/about">关于我们</router-link></MenuItem>
                         </Submenu>
                         <Submenu name="2">
                             <template slot="title">
